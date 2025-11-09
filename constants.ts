@@ -15,11 +15,14 @@ export const IMAGES: ImageItem[] = [
   { id: 5, src: 'portfolio/fachadas/CrossFit_ (1)', alt: 'Letras 3D iluminadas', title: 'Letreiro Iluminado', categories: [Category.LETRAS_ALTO_RELEVO, Category.FACHADAS] },
   { id: 6, src: 'portfolio/fachadas/CrossFit_ (2)', alt: 'Placa para escritório de advocacia', title: 'Placa Advocacia', categories: [Category.PLACAS_CONSULTORIO] },
   { id: 7, src: 'portfolio/letras-alto-relevo/CrossFit_ (3)', alt: 'Fachada CrossFit', title: 'Academia', categories: [Category.FACHADAS] },
-  { id: 8, src: 'portfolio/id1079', alt: 'Detalhe de letra em relevo', title: 'Detalhe Relevo', categories: [Category.LETRAS_ALTO_RELEVO] },
-  { id: 9, src: 'portfolio/id21', alt: 'Placa de consultório odontológico', title: 'Placa Odontologia', categories: [Category.PLACAS_CONSULTORIO] },
-  { id: 10, src: 'portfolio/id219', alt: 'Fachada de empresa de tecnologia', title: 'Empresa Tech', categories: [Category.FACHADAS, Category.LETRAS_ALTO_RELEVO] },
+  { id: 8, src: 'testeportfolio-01/yztwjcwrd8v3c4qgetpn', alt: 'Detalhe de letra em relevo', title: 'Detalhe Relevo', categories: [Category.LETRAS_ALTO_RELEVO] },
+  { id: 9, src: 'testeportfolio-01/m1ry1v7kyobksmqsghk7', alt: 'Placa de consultório odontológico', title: 'Placa Odontologia', categories: [Category.PLACAS_CONSULTORIO] },
+  { id: 10, src: 'testeportfolio-01/jgrarvoe4ejc4ngfzliz', alt: 'Fachada de empresa de tecnologia', title: 'Empresa Tech', categories: [Category.FACHADAS, Category.LETRAS_ALTO_RELEVO] },
   { id: 11, src: 'portfolio/id237', alt: 'Logotipo em alto relevo na parede', title: 'Logo 3D', categories: [Category.LETRAS_ALTO_RELEVO] },
   { id: 12, src: 'portfolio/id24', alt: 'Placa de identificação de sala', title: 'Identificação de Sala', categories: [Category.PLACAS_CONSULTORIO] },
+  { id: 13, src: 'testeportfolio-01/usddqczic1ylquhxbyjo', alt: 'Placa de identificação de sala', title: 'Identificação Cloudinary', categories: [Category.PLACAS_CONSULTORIO] },
+  { id: 14, src: 'testeportfolio-01/uxjl792ioidgyuiwhtrv', alt: 'Placa de identificação de sala', title: 'Cloudinary nova', categories: [Category.LETRAS_ALTO_RELEVO] },
+
 ];
 
 export const HERO_IMAGES = [
